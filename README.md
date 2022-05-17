@@ -15,6 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cn.i.cdn.ti-platform.com/content/1235/scooby-doo-and-guess-who/showpage/co/showpicker-1.53f13caf.png">
 </div>
   
 ##
