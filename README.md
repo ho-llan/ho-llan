@@ -1,6 +1,6 @@
  ## Olá! Eu sou o Lohan Oliveira!
 
-- 🌱 Estudando Análise e Desenvolvimento de Software e desenvolvimento Fullstack
+- 🌱 Formado em Análise e Desenvolvimento de Software.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
